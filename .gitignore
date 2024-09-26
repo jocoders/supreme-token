@@ -12,3 +12,12 @@ docs/
 
 # Dotenv file
 .env
+
+# History
+.history
+
+#GitHub
+.github
+
+# IntelliJ IDEA
+.idea
